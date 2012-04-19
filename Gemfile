@@ -28,6 +28,8 @@ group :assets do
   gem 'uglifier'
 end
 
+gem "json","~>1.6.6" 
+
 gem 'jquery-rails'
 
 # Use unicorn as the web server
